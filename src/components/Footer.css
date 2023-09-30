@@ -1,0 +1,36 @@
+.menu{
+  
+height: 100px; 
+text-align: center;
+width: 50%;
+margin-left: 25%;
+margin-right: 25%;
+}
+.button{
+  height: 50px;
+  background-color: cadetblue;
+    width: 15%;
+    color: white;
+    font-size: 16px;
+   
+}
+.Top{
+    height: 100px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.form{
+   
+    height: 100px;
+}
+.list{
+    background-color: aliceblue;
+    height: 40px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
